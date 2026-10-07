@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ml-qml-linkedin.gif" alt="Machine Learning + Quantum Machine Learning Lab" width="100%">
+  <img src="letöltés.png" alt="Machine Learning + Quantum Machine Learning Lab" width="100%">
 </p>
 
 <h1 align="center">Machine Learning + Quantum Machine Learning Lab</h1>
@@ -10,6 +10,12 @@
 
 <p align="center">
   <b>Python</b> • <b>FastAPI</b> • <b>scikit-learn</b> • <b>Qiskit</b> • <b>Qiskit Machine Learning</b>
+</p>
+
+### Live Preview
+
+<p align="center">
+  <img src="ml-qml-linkedin.gif" alt="Machine Learning + Quantum Machine Learning Lab live preview" width="100%">
 </p>
 
 ---
